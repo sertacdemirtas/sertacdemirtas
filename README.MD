@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [T-Soft](https://www.tsoftecommerce.com/)
 
-- 🌱 I’m currently learning **VueJS**
-
 - 📫 How to reach me **sertac.demirtas@aryber.com**
 
 <h3 align="left">Connect with me:</h3>
